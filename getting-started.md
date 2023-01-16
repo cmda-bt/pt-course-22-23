@@ -68,7 +68,8 @@ then install Git
 brew install git
 ```
 
-Both for *Windows* and for*MacOS*, connect Git and GitHub together inside of your **command line interface** like so:
+*Configure Git:*  
+Both for *Windows* and for *MacOS*, connect Git and GitHub together inside of your **command line interface** like so:
 
 ```sh
 git config --global user.name "Mona Lisa"
