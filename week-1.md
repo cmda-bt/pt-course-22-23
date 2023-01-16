@@ -65,7 +65,7 @@ Take a couple of hours to understand the basics of the Terminal. Troughout the o
 
 #### Assignment
 
-We have created a short interactive tutorial to see if you know your away around the command line! Upon completion you'll be given a code. Write that down! We'll ask you to include it in your GitHub issues once you completed. Here are the instructions on how to start the tutorial:
+This one is for **Mac users only**! We have created a short interactive tutorial to see if you know your away around the command line! Upon completion you'll be given a code. Write that down! We'll ask you to include it in your GitHub issues once you completed. Here are the instructions on how to start the tutorial:
 
 <details>
   <summary><strong>CLI interactive tutorial install guide</strong></summary>
