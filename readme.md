@@ -14,13 +14,14 @@
 
 ## Synopsis
 
-The course **Project-tech** is given at [**@CMDA**][cmda] in 2022 between February and June.
+The course **Project-tech** is given at [**@CMDA**][cmda] in 2023 between February and June.
 
 *   **Course**: [Project Tech][course] (`2000PTEC21`)
-*   **Coordinator(s)**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Ivo Nijhuis][ivogit] - i.nijhuis@hva.nl
-*   **Lecturers**: [Danny de Vries][dangit] ([**@dandevri**][danweb]), [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]) and [Robert Spier][robgit] ([**roberrrt-s**][robgit]) 
+*   **Coordinator(s)**: [Robert Spier][robgit] and [Ivo Nijhuis][ivogit]
+*   **Lecturers**: [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]) and [Robert Spier][robgit] ([**roberrrt-s**][robgit]) 
+*   **Honorary mention**: [Danny de Vries][dangit]
 *   **Credit**: 5 ECTS
-*   **Academic year**: 2021-2022
+*   **Academic year**: 2022-2023
 *   **Period**: Quarter 3 (spring)
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmd] (full time bachelor CROHO: `34092`)
@@ -170,7 +171,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [gh]: https://github.com/cmda-bt/
 [examples]: /examples
 [teams]: http://teams.microsoft.com
-[brightspace]: https://dlo.mijnhva.nl/d2l/home/324333
+[brightspace]: https://dlo.mijnhva.nl/d2l/home/437137
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
