@@ -66,12 +66,9 @@ then install Git
 brew install git
 ```
 
-Connect Git and GitHub together inside of the **terminal** like so:
+Connect Git and GitHub together inside of the **terminal** using SSH using the following link:
 
-```sh
-git config --global user.name "Mona Lisa"
-git config --global user.email "mona@lisa.com"
-```
+[Connect your GitHub to Git locally][ssh-github]
 
 Use the same email for Git as you used to sign up for GitHub.
 
@@ -118,3 +115,4 @@ GitHub is a social platform so give this repository `pt-course-21-22` [a ⭐ sta
 [videogit]: https://www.youtube.com/watch?v=Qq39mizx5kE
 [issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
 [learnvs]: https://code.visualstudio.com/learntocode
+[ssh-github]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
