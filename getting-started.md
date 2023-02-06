@@ -38,20 +38,22 @@ Include your name, a profile picture, and a URL to your homepage. Teachers will 
 ### CLI
 
 *Windows:*  
-If you’re on Windows, you should upgrade to _Windows 10 (1903)_ and install the Windows Subsystem for Linux using [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) ([or video](https://www.youtube.com/watch?v=Cvrqmq9A3tA))
-. Follow it until you see “Installation successful”. Additionally you can install the [Windows Terminal][terminal] and switch to using WSL.
+Modern Windows versions provide Windows PowerShell as a command line interface. Just type 'PowerShell' in the searchbar in your start-menu or taskbar. By default you will start the Powershell as a normal user, but you can also choose to run it as an adminstrator. For everyday use, we recommend to run it as a normal user. You will have less rights to change things, which also means less risk of accidentally breaking things. For the few times you do need more permissions, you can run Powershell as an administrator. On older Windows machines you can also use the Command Prompt, which is less sophisticated. Many people also like to use the [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) directly in your code editor like in VSCode.
 
-> 💡 Be ware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
+> 💡 Be aware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivalent experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
-Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more features. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices. Many people also like to use the [Intergrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) directly in your code editor like in VSCode.
+Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more features. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices. Many people also like to use the [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) directly in your code editor like in VSCode.
 
 > 💡 If you have a Mac running MacOS Catalina (or above) the current default shell is `zsh`, previously this was `bash`. If `bash` is still the default on your machine we highly suggest you switch your default shell to `zsh` [using this Apple support article](https://support.apple.com/en-us/HT208050).
 
 ### Git
 
 *Windows:*  
-If you installed the [Windows Subsystem for Linux](#subshell) just now, install Git by running `apt-get install git` in Bash.
+Download and install [Git for Windows](https://gitforwindows.org/). Most default options are fine, but there are a few settings to consider during installation:
+* You can select your own preferred editor (Visual Studio Code or other).
+* We recommend to override the default branch name for new repositories. If you choose 'main' as default branch name, this will align with the default used on GitHub.
+* Finally select 'Git from the command line', so you can use Git commands in PowerShell.
 
 *MacOS:*  
 Install Git using [Homebrew](https://brew.sh/)
@@ -66,7 +68,8 @@ then install Git
 brew install git
 ```
 
-Connect Git and GitHub together inside of the **terminal** using SSH using the following link:
+*Configure Git:*
+Both for *Windows* and for *MacOS*, connect Git and GitHub together inside of your **command line interface** like so:
 
 [Connect your GitHub to Git locally][ssh-github]
 
@@ -87,7 +90,7 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 ### GitHub
 
-GitHub is a social platform so give this repository `pt-course-21-22` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
+GitHub is a social platform so give this repository `pt-course-22-23` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
 
 
 ## Introduction
@@ -113,6 +116,6 @@ GitHub is a social platform so give this repository `pt-course-21-22` [a ⭐ sta
 [videotext]: https://www.youtube.com/watch?v=a2A_AGAnNjQ
 [videoorg]: https://www.youtube.com/watch?v=8w69jLPpPXM
 [videogit]: https://www.youtube.com/watch?v=Qq39mizx5kE
-[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
+[issues]: https://github.com/cmda-bt/pt-course-22-23/issues/new/choose
 [learnvs]: https://code.visualstudio.com/learntocode
 [ssh-github]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh

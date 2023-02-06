@@ -60,12 +60,12 @@ Once you feel comfortable with basic GitHub concepts apply them to your own proj
 
 Take a couple of hours to understand the basics of the Terminal. Troughout the other courses (especially back-end) we'll be doing a ton with the terminal so it's good to understand how to navigate it. 
 
-1. Follow ['A Designer’s Guide to the Terminal'][guidecli]
-2. Watch the [Command Line Basics video][wesboscli] of Wes Bos his CLI course.
+1. Follow ['A Designer’s Guide to the Terminal'][guidecli] *(Mac)* or read [Working with files and folders](https://learn.microsoft.com/en-us/powershell/scripting/samples/working-with-files-and-folders?view=powershell-7.3) *(Windows)*
+2. Watch the [Command Line Basics video][wesboscli] of Wes Bos his CLI course *(Mac)* or [Powershell for Beginners](https://www.youtube.com/watch?v=Jfvg3CS1X3A) *(Windows)*
 
 #### Assignment
 
-We have created a short interactive tutorial to see if you know your away around the command line! Upon completion you'll be given a code. Write that down! We'll ask you to include it in your GitHub issues once you completed. Here are the instructions on how to start the tutorial:
+This one is for **Mac users only**! We have created a short interactive tutorial to see if you know your away around the command line! Upon completion you'll be given a code. Write that down! We'll ask you to include it in your GitHub issues once you completed. Here are the instructions on how to start the tutorial:
 
 <details>
   <summary><strong>CLI interactive tutorial install guide</strong></summary>
