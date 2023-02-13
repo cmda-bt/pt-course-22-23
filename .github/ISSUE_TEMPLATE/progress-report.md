@@ -1,5 +1,5 @@
 ---
-name: Progress report template
+name: Progress report
 about: Template for student progress reports
 title: ''
 labels: ''
