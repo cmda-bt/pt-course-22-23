@@ -1,24 +1,24 @@
 ---
 name: Progress report template
-about: Template for student progress report issues
+about: Template for student progress reports
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-#Progress report
+# Progress report
 
 ## Week and package
 
-##Name
+## Name
 
-##Class
+## Class
 
-##Repo link
+## Repo link
 
-##Progress summary
+## Progress summary
 
-##Resources used
+## Resources used
 
-##Any thoughts?
+## Any thoughts?
