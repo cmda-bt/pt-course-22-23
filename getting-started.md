@@ -40,6 +40,15 @@ Include your name, a profile picture, and a URL to your homepage. Teachers will 
 *Windows:*  
 Modern Windows versions provide Windows PowerShell as a command line interface. Just type 'PowerShell' in the searchbar in your start-menu or taskbar. By default you will start the Powershell as a normal user, but you can also choose to run it as an adminstrator. For everyday use, we recommend to run it as a normal user. You will have less rights to change things, which also means less risk of accidentally breaking things. For the few times you do need more permissions, you can run Powershell as an administrator. On older Windows machines you can also use the Command Prompt, which is less sophisticated. Many people also like to use the [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) directly in your code editor like in VSCode.
 
+The default security settings for PowerShell prevent you from running any scripts without permission. You may run into this problem later on, for example when you try to start nodemon and it doesn't work. You can check your current settings in PowerShell with the command:
+```sh
+Get-ExecutionPolicy -List
+```
+and if needed, relax the security settings a bit using the command:
+```sh
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
 > 💡 Be aware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivalent experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
