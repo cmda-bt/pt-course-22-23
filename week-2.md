@@ -104,7 +104,7 @@ Based on the concept, job story, requirement list and wireframe from the previou
 Commit any code progess in your repository on GitHub under your username in your own matching-app repository. Also write down any technical and design research you did in your wiki.
 
 1. **Create an issue:**
-Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-2` with the correct information. Include what progress you made in the description of the issue.
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker](https://github.com/cmda-bt/pt-course-22-23/issues). Fill in the progress report template with your own information. Include what progress you made in the description of the issue.
 
 3. **Feedback:**
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
@@ -114,7 +114,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [inspiration-author]: https://github.com/abhisheknaiidu
 [quote-author]: https://github.com/ABSphreak
 
-[issues]: https://github.com/cmda-bt/pt-course-21-22/issues/new/choose
 [lab2]: /slides/pt_21-22_lab-2.pdf
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
