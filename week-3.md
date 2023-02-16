@@ -122,9 +122,7 @@ Improve the front-end interface of your feature, spend some time on animation an
    your wiki.
 
 2. **Create an Issue**  
-   Mark this assignment as completed by opening an issue on our
-   [Issue Tracker](https://github.com/cmda-bt/pt-course-21-22/issues/new/choose).
-   Fill in the issue template of `week-3` with the correct information.
+Mark this assignment as complete by opening an issue on our [GitHub issue tracker](https://github.com/cmda-bt/pt-course-22-23/issues). Fill in the progress report template with your own information. Include what progress you made in the description of the issue.
 
 3. **Feedback**  
    Any thoughts/feelings/concerns/opinions about these assignments? Let us know!
