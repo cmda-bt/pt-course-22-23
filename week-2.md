@@ -35,7 +35,7 @@
 Take a couple of hours to learn how to write documentation and how `markdown (.md)` works. Follow the interactive tutorials and look at the Markdown Cheat Sheets.
 
 1. Watch Wes Bos his [**Mastering Markdown**][markdown] course.
-2. Try the [**interactive markdown tutorials**](interactive)
+2. Try the [**interactive markdown tutorials**](https://www.markdowntutorial.com/)
 
 #### Assignment
 
@@ -118,7 +118,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
 [community]: https://opensource.guide/code-of-conduct/
-[interactive]: https://www.markdowntutorial.com/
 [katacoda]: https://www.katacoda.com/courses/git
 [tips]: https://github.com/git-tips/tips
 [flight]: https://github.com/k88hudson/git-flight-rules/
