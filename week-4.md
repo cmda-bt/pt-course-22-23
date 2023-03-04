@@ -1,4 +1,4 @@
-# Week 4: Deployment & Production Setup
+# Week 4:Production Setup
 
 > No Deploy Fridays
 >
@@ -45,40 +45,12 @@ project.
 * **Tweak or set-up additional linters** (see week-3) in your project. It will further help you spot any inconsistenties in your code. 
 * **Ask your support group to review your work**, and optimize your code
 based on the questions they ask. It can be surprisingly difficult to find problems in work you're too familiar with. 
+* Make sure that files like your `.env` file (with your private information), `node_modules` and other files that are not part of your project, are listed in `.gitignore` and are **not present** in your repo.
 
 ##### Further Reading
 
 * [Clean Code by Robert C. Martin][clean]
 * [Learning JavaScript Design Patterns by Addy Osmani][patterns]
-
-### Deploy your App!
-
-![Deploy Banner](assets/banners/banner-deploy.jpg)
-
-> Put your app on the web!
-> If you find yourself troubled by Heroku errors? View the [troubleshooting guide!](docs/heroku-troubleshooting.md)
-
-#### Synopsis
-- **Time**: 2h (depending on what platform you pick)
-- **Due**: before week 5
-
-Deploy your web app to a _hosting service_. This'll allow others to view your
-app on the web! There are various options available, but we recommend looking at the following:
-
-- [DigitalOcean App Platform](https://digitalocean.com): By far the easiest and fastest way to deploy. (Pro Tip: register for [the GitHub Student Pack](https://education.github.com/pack) to get free credit for DO)
-- Platform As A Service:
-  [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs):
-  needs more config then Vercel but is more powerful.
-- Virtual Private Server [DigitalOcean](https://www.digitalocean.com/): The most
-  hardcore way to-go. They just provide an empty linux and you need to set-up on
-  your own.
-
-Before you put anything online for the world to see, make sure you have:
-
-- put your private variables in a `.env` file, and that you have this file
-  listed in `.gitignore`;
-- ignored `node_modules` from git by putting it in `.gitignore`
-- check your `run scripts`, most deployment services will give errors if those are not set-up correctly
 
 ## Concept
 
