@@ -73,4 +73,4 @@ Mark this assignment as complete by opening an issue on our [GitHub issue tracke
 
 [clean]: https://www.oreilly.com/library/view/clean-code-a/9780136083238/
 [patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-[lab4]: /slides/pt_lab-4_21-22.pdf
+[lab4]: /slides/pt_lab-4.pdf
