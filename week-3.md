@@ -144,4 +144,4 @@ Mark this assignment as complete by opening an issue on our [GitHub issue tracke
 [postcss]: https://postcss.org
 [browserify]: http://browserify.org
 [rollup]: https://www.rollupjs.org/guide/en/
-[lab3]: /slides/pt_21-22_lab-3.pdf
+[lab3]: /slides/pt_lab-3.pdf
