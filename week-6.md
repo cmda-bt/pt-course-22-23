@@ -35,8 +35,8 @@ _Coming Soon_
 
 Take a couple of hours to understand some of the collaboration features of GitHub and Git works. The GitHub Lab workshoppers are nice practical tutorials to do and learn about issues, pull requests and merge conflicts.
 
-* [_Reviewing pull requests_][review] on GitHub learning Lab
-* [_Managing merge conflicts_][conflict] on GitHub learning Lab
+* [_Reviewing pull requests_][review] on GitHub Skills
+* [_Managing merge conflicts_][conflict] on GitHub Skills
 * [_Community Starter Kit_][community] on GitHub learning Lab
 
 #### Assignment
@@ -51,7 +51,7 @@ Once you feel comfortable with basic GitHub concepts apply them to your team pro
 
 ![Refactor MVP](assets/banners/banner-mvp.jpg)
 
-> Describe the Minimable Viable Product of your team
+> Describe the Minimum Viable Product of your team
 
 #### Synopsis
 - **Time**: 3h-4h (depending on your work so far)
