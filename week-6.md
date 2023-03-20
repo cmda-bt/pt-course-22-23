@@ -75,7 +75,7 @@ Document everything your team came up with in the _GitHub wiki_ of your Team rep
 
 [scheduler]: https://dlo.mijnhva.nl/d2l/le/schedule/lim/instructor/192672/home
 [assignments]: https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/folders_manage.d2l?ou=192672
-[review]: https://lab.github.com/githubtraining/reviewing-pull-requests
-[conflict]: https://lab.github.com/githubtraining/managing-merge-conflicts
+[review]: https://github.com/skills/review-pull-requests
+[conflict]: https://github.com/skills/resolve-merge-conflicts
 [community]: https://lab.github.com/githubtraining/community-starter-kit
 [flight]: https://github.com/k88hudson/git-flight-rules/
