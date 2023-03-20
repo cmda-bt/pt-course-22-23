@@ -38,7 +38,6 @@ Take a couple of hours to understand some of the collaboration features of GitHu
 
 * [_Reviewing pull requests_][review] on GitHub Skills
 * [_Managing merge conflicts_][conflict] on GitHub Skills
-* [_Community Starter Kit_][community] on GitHub learning Lab
 
 #### Assignment
 
