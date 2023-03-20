@@ -16,7 +16,8 @@
 
 ## Slides
 
-_Coming Soon_
+* [Kick-off teams](https://github.com/cmda-bt/pt-course-22-23/blob/main/slides/bt_kick-off_teams_22_23.pdf)
+* [Week 6](https://github.com/cmda-bt/pt-course-22-23/blob/main/slides/pt_lab-6.pdf)
 
 
 ## Assignments
